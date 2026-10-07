@@ -16,6 +16,9 @@ DPO、ORPO、GRPO、RLOO 和 OPD 等训练能力，并新增古籍数据准备�
 上，DPO 将总体字符 F1 从 V5 SFT 的 72.69% 提升至 73.39%，并将标点原文保留率从 64.54% 提升至
 71.19%。后续 V6 定向 SFT 与两轮 GRPO 均完成受控评测，但没有形成稳定综合优势，因此未替换 DPO。
 
+已合并、可直接推理的模型权重发布在
+[Hugging Face：tzh699/GujinBridge-Qwen3-1.7B-DPO](https://huggingface.co/tzh699/GujinBridge-Qwen3-1.7B-DPO)。
+
 ![GujinBridge DPO V1 本地运行演示](docs/assets/gujinbridge-demo.gif)
 
 - [最终实验报告](docs/FINAL_EXPERIMENT_REPORT.md)
@@ -372,3 +375,4 @@ GRPO 使用独立的 361 条标点受控评测。V2 checkpoint-50 是最佳 GRPO
 - “古今桥”模型不能替代专业古籍整理、校勘或学术判断。
 
 详细上游说明见 [NOTICE](NOTICE)。
+

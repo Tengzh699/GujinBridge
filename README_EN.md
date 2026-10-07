@@ -18,6 +18,9 @@ of 1,440 examples, DPO improved overall character F1 from 72.69% to 73.39% and p
 preservation from 64.54% to 71.19%. A targeted SFT run and two GRPO iterations were retained as controlled
 ablations because they did not consistently outperform DPO.
 
+The merged inference model is available on
+[Hugging Face: tzh699/GujinBridge-Qwen3-1.7B-DPO](https://huggingface.co/tzh699/GujinBridge-Qwen3-1.7B-DPO).
+
 ![GujinBridge DPO V1 local demo](docs/assets/gujinbridge-demo.gif)
 
 - [Final experiment report](docs/FINAL_EXPERIMENT_REPORT.md)
@@ -71,3 +74,4 @@ vendored in this repository. Verify the exact upstream revision and license befo
 
 The inherited framework and GujinBridge additions are distributed under Apache License 2.0. See
 [NOTICE](NOTICE), [LICENSE](LICENSE), and [CITATION.cff](CITATION.cff) for attribution details.
+

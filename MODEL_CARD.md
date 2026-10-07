@@ -7,7 +7,7 @@
 - 发布栈：Qwen3-1.7B -> V5 SFT merged -> DPO V1 LoRA
 - 参数高效训练：LoRA，rank 16，alpha 32，dropout 0.05
 - 主要语言：中文、文言文
-- 当前状态：本地实验模型，尚未发布到模型托管平台
+- 当前状态：[Hugging Face 已发布的合并推理模型](https://huggingface.co/tzh699/GujinBridge-Qwen3-1.7B-DPO)
 
 ## 支持任务
 
@@ -82,3 +82,4 @@ MedicalGPT，代码许可与上游署名见 [LICENSE](LICENSE)、[NOTICE](NOTICE
 - 总实验报告：[docs/FINAL_EXPERIMENT_REPORT.md](docs/FINAL_EXPERIMENT_REPORT.md)
 - 训练与模型选择流程：[docs/TRAINING_PIPELINE.md](docs/TRAINING_PIPELINE.md)
 - GRPO V2 实验方案：[docs/gujinbridge_grpo_v2_experiment.md](docs/gujinbridge_grpo_v2_experiment.md)
+

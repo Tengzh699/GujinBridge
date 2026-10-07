@@ -2,6 +2,7 @@
   "project": "GujinBridge",
   "release_candidate": "dpo-v1",
   "base_model": "Qwen/Qwen3-1.7B",
+  "hub_model": "tzh699/GujinBridge-Qwen3-1.7B-DPO",
   "sft_merged_model": "outputs-gujinbridge-v5-merged",
   "adapter": "outputs-gujinbridge-dpo-v1-qwen3-1.7b",
   "system_prompt": "configs/gujinbridge_system_prompt.txt",
@@ -16,3 +17,4 @@
     "best_grpo_status": "research_only_not_promoted"
   }
 }
+
