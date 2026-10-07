@@ -1,0 +1,22 @@
+GujinBridge Disclaimer
+
+This software, its demonstration data, and models trained with it are provided
+"as is", without warranties or conditions of any kind. The project is intended
+for research and engineering use. Model outputs may be inaccurate, incomplete,
+anachronistic, biased, or fabricated.
+
+GujinBridge is not a substitute for a verified edition, textual collation,
+professional translation, or scholarly judgment. Users should check quotations,
+authorship, titles, dates, punctuation, and interpretations against reliable
+primary sources before publication or consequential use. A generated citation
+or passage must not be treated as authentic merely because it sounds plausible.
+
+Users are responsible for the legality, licensing, privacy, safety, and quality
+of the datasets and base models they select, and for evaluating any resulting
+model before deployment. External datasets and base models retain their own
+terms. This disclaimer does not replace or restrict the permissions granted by
+the Apache License, Version 2.0, for code covered by that license.
+
+To the maximum extent permitted by applicable law, the project owners and
+contributors are not liable for damages or losses arising from use of the
+software, data, trained models, or generated outputs.

@@ -1,0 +1,25 @@
+GujinBridge
+Copyright 2026 GujinBridge contributors
+
+This product includes software developed as part of MedicalGPT:
+https://github.com/shibing624/MedicalGPT
+
+MedicalGPT was created by Ming Xu and contributors and is distributed under
+the Apache License, Version 2.0. GujinBridge retains and adapts its training,
+inference, deployment, and utility code. The Apache License is included in
+the root LICENSE file. Changes made for GujinBridge include its project
+documentation, classical-Chinese data preparation pipeline, task prompt,
+training launchers, evaluation utilities, and demonstration data.
+
+The recommended external dataset is chinese-classical-corpus by GujiLab:
+https://github.com/gujilab/chinese-classical-corpus
+
+At the time this adaptation was prepared, that project described its
+instruction data as CC0 and its underlying NiuTrans classical/modern Chinese
+data and scripts as MIT licensed. External data is not included in this
+repository. Users must verify the exact upstream revision, notices, source
+provenance, and license terms they actually download and redistribute.
+
+Base models and any other external datasets retain their respective licenses.
+GujinBridge does not provide scholarly, textual-critical, medical, legal, or
+other professional guarantees.

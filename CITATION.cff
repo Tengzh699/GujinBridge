@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use GujinBridge, please cite this software and its MedicalGPT upstream project."
+type: software
+title: "GujinBridge: A Classical and Modern Chinese Language Model Training Project"
+authors:
+  - name: "GujinBridge Contributors"
+version: 0.1.0
+date-released: 2026-09-28
+license: Apache-2.0
+abstract: "A reproducible training pipeline for classical-modern Chinese translation, punctuation, interpretation, and source-grounded question answering."
+references:
+  - type: software
+    title: "MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline"
+    authors:
+      - family-names: "Xu"
+        given-names: "Ming"
+    url: "https://github.com/shibing624/MedicalGPT"
+    year: 2023
+  - type: data
+    title: "chinese-classical-corpus"
+    publisher:
+      name: "GujiLab"
+    url: "https://github.com/gujilab/chinese-classical-corpus"

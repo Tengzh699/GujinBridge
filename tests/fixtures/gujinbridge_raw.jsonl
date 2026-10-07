@@ -1,0 +1,5 @@
+{"id":"raw-001","task":"c2m","instruction":"将下列古文翻译成现代汉语：","input":"学而时习之，不亦说乎？","output":"学习之后按时温习，不也是一件愉快的事吗？","source":"论语·学而","category":"经","_has_box":false}
+{"id":"raw-002","task":"m2c","instruction":"将下列现代汉语改写为文言文：","input":"三个人同行，其中一定有人可以做我的老师。","output":"三人行，必有我师焉。","source":"论语·述而","category":"经","_has_box":false}
+{"id":"raw-003","task":"punctuate","instruction":"为下列古文断句并添加现代标点：","input":"大道之行也天下为公选贤与能讲信修睦","output":"大道之行也，天下为公。选贤与能，讲信修睦。","source":"礼记·礼运","category":"经","_has_box":false}
+{"id":"raw-004","task":"c2m","instruction":"将下列古文翻译成现代汉语：","input":"不以物喜，不以己悲。","output":"不因外物的好坏而欢喜，也不因自己的得失而悲伤。","source":"岳阳楼记","category":"集","_has_box":false}
+{"id":"raw-filtered","task":"c2m","instruction":"翻译：","input":"此条含异常字符标记","output":"应被默认过滤","source":"测试来源","category":"其他","_has_box":true}

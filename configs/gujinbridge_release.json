@@ -1,0 +1,18 @@
+{
+  "project": "GujinBridge",
+  "release_candidate": "dpo-v1",
+  "base_model": "Qwen/Qwen3-1.7B",
+  "sft_merged_model": "outputs-gujinbridge-v5-merged",
+  "adapter": "outputs-gujinbridge-dpo-v1-qwen3-1.7b",
+  "system_prompt": "configs/gujinbridge_system_prompt.txt",
+  "selection": {
+    "test_examples": 1440,
+    "overall_char_f1": 0.7339277598913049,
+    "punctuation_text_preservation": 0.7119113573407202,
+    "decision": "Selected over V5 SFT, V6 targeted SFT, GRPO V1, and GRPO V2 using frozen-set evaluation."
+  },
+  "experimental_models": {
+    "best_grpo": "outputs-gujinbridge-grpo-v2-qwen3-1.7b/checkpoint-50",
+    "best_grpo_status": "research_only_not_promoted"
+  }
+}
