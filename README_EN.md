@@ -74,4 +74,3 @@ vendored in this repository. Verify the exact upstream revision and license befo
 
 The inherited framework and GujinBridge additions are distributed under Apache License 2.0. See
 [NOTICE](NOTICE), [LICENSE](LICENSE), and [CITATION.cff](CITATION.cff) for attribution details.
-

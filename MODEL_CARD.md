@@ -82,4 +82,3 @@ MedicalGPT，代码许可与上游署名见 [LICENSE](LICENSE)、[NOTICE](NOTICE
 - 总实验报告：[docs/FINAL_EXPERIMENT_REPORT.md](docs/FINAL_EXPERIMENT_REPORT.md)
 - 训练与模型选择流程：[docs/TRAINING_PIPELINE.md](docs/TRAINING_PIPELINE.md)
 - GRPO V2 实验方案：[docs/gujinbridge_grpo_v2_experiment.md](docs/gujinbridge_grpo_v2_experiment.md)
-
